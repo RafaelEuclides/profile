@@ -1,45 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T20:38:30.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="ZJReyDL7SXG9pouVZnz_" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T14:44:45.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="DL2s-PwBVEoc845j1a7u" version="21.2.9" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="1257" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="3a17f1ce550125da-1" value="RELAÇÃO DE TABELA DB ARCA SISTEMA" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=none;strokeWidth=2;dashed=1;rounded=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="190" width="500" height="150" as="geometry" />
+          <mxGeometry x="580" y="30" width="500" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="3a17f1ce550125da-4" value="MOV. ESTOQUE" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1037" y="444" width="120" height="60" as="geometry" />
+        <mxCell id="3a17f1ce550125da-4" value="MOV. PRODUTO" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1053.5" y="334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3a17f1ce550125da-5" value="CREDIÁRIO&lt;br&gt;(CONTAS A RECEBER)" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1037" y="595" width="120" height="90" as="geometry" />
+          <mxGeometry x="1053.5" y="610" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Vx7XrjalS1jO2P60uWzy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3a17f1ce550125da-9" target="3a17f1ce550125da-11">
+        <mxCell id="Vx7XrjalS1jO2P60uWzy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3a17f1ce550125da-9" target="3a17f1ce550125da-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3a17f1ce550125da-9" value="C000025" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="384" width="120" height="60" as="geometry" />
+        <mxCell id="3a17f1ce550125da-9" value="TELA DE PRODUTOS&lt;br&gt;&lt;br&gt;C000025" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="486.5" y="220" width="120" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="Vx7XrjalS1jO2P60uWzy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3a17f1ce550125da-11" target="3a17f1ce550125da-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3a17f1ce550125da-11" value="C000100" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="760" y="444" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Vx7XrjalS1jO2P60uWzy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vx7XrjalS1jO2P60uWzy-8">
+        <mxCell id="Vx7XrjalS1jO2P60uWzy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3a17f1ce550125da-11" target="3a17f1ce550125da-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="364" />
+              <mxPoint x="940" y="364" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vx7XrjalS1jO2P60uWzy-8" value="C000025" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="504" width="120" height="60" as="geometry" />
+        <mxCell id="3a17f1ce550125da-11" value="TELA DE ESTOQUE&lt;br&gt;&lt;br&gt;C000100" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="780" y="280" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Vx7XrjalS1jO2P60uWzy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vx7XrjalS1jO2P60uWzy-12">
+        <mxCell id="Vx7XrjalS1jO2P60uWzy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vx7XrjalS1jO2P60uWzy-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030" y="640" as="targetPoint" />
+            <mxPoint x="696.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vx7XrjalS1jO2P60uWzy-12" value="C000049" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="Vx7XrjalS1jO2P60uWzy-8" value="TELA&amp;nbsp; DE AUDITORIA&lt;br&gt;&lt;br&gt;C000101" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="486.5" y="394" width="120" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="Vx7XrjalS1jO2P60uWzy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vx7XrjalS1jO2P60uWzy-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1046.5" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vx7XrjalS1jO2P60uWzy-12" value="C000049" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="486.5" y="625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
